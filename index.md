@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Welcome
+title: David Wise Portfolio
 ---
+
+<link rel="stylesheet" href="assets/css/custom.css">
 
 # David Wise
 

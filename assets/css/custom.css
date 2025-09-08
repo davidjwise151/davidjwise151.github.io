@@ -1,0 +1,21 @@
+body {
+  background: #222;
+  color: #e4e6eb;
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+}
+a { color: #58a6ff; }
+.header, .footer {
+  background: #181818;
+  color: #e4e6eb;
+  padding: 1em;
+}
+h1, h2, h3 {
+  color: #f8f9fa;
+}
+.card {
+  background: #282828;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 1em;
+  margin-bottom: 1em;
+}
